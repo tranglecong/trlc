@@ -1,0 +1,6 @@
+[submodule "thread_safe"]
+	path = thread_safe
+	url = git@github.com:tranglecong/thread_safe.git
+[submodule "common"]
+	path = common
+	url = git@github.com:tranglecong/common.git
